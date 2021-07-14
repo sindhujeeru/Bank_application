@@ -1,9 +1,9 @@
 # Bank_application
-The two folders 
-  -Bank_Application   -> Backend with spring boot
-  -bankui             -> frontend with Angular
+#The two folders 
+  -Bank_Application for Backend which is done with spring boot
+  -bankui for frontend which is done with AngularJs
 
-Process to run the application
+##Process to run the application
   1. download the project from the github
   2. import Bank_Application as Maven project in eclipse
   3. Run the application as spring boot application in eclipe
